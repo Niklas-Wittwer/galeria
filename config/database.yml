@@ -4,6 +4,8 @@ development:
   database: dev
   pool: 5
   host: localhost
+  username: postgres
+  password: niwi
   port: 5432
 
 production:
